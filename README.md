@@ -7,3 +7,5 @@
 2) EDA 및 중간발표: https://colab.research.google.com/drive/1c62a-kTqowd1wE4FaSLMIaV1Xxy69rCH?usp=sharing
 
 3) 모델링
+
+4) 최종발표
