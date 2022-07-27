@@ -18,5 +18,6 @@ https://colab.research.google.com/drive/1c62a-kTqowd1wE4FaSLMIaV1Xxy69rCH?usp=sh
 https://colab.research.google.com/drive/1FyZtWM74aIfLvI0V6SZrLpyi2m08Wf8r?usp=sharing
 
 - Point biserial correlation을 확인하고, 기존 정규화 데이터로 3-layer Neural Network 딥러닝 모델 적용
+- IsolationForest, EllipticEnvelope, AutoEncoder 모델 적용
 
 #### 4) 최종발표
