@@ -25,7 +25,5 @@ https://colab.research.google.com/drive/1FyZtWM74aIfLvI0V6SZrLpyi2m08Wf8r#scroll
 
 #### 4) 최종발표
 
-
-
 #### 5) 팀원
 김민지, 박혜진, 조문선, 조예진, 최지원
