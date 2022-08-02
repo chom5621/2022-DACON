@@ -12,6 +12,7 @@ https://colab.research.google.com/drive/1c62a-kTqowd1wE4FaSLMIaV1Xxy69rCH?usp=sh
 
 - MinMax 스케일링
 - SMOTE 오버 샘플링
+- Outlier 제거
 
 #### 3) 모델링
 
