@@ -18,7 +18,8 @@ https://colab.research.google.com/drive/1c62a-kTqowd1wE4FaSLMIaV1Xxy69rCH?usp=sh
 
 https://colab.research.google.com/drive/1FyZtWM74aIfLvI0V6SZrLpyi2m08Wf8r?usp=sharing
 
-- Point biserial correlation을 확인하고, 기존 정규화 데이터로 3-layer Neural Network 딥러닝 모델 적용
+- Point biserial correlation
+- 정규화 데이터로 3-layer Neural Network 딥러닝 모델 적용
 
 https://colab.research.google.com/drive/1FyZtWM74aIfLvI0V6SZrLpyi2m08Wf8r#scrollTo=ff9jVx6uorYk
 
@@ -27,6 +28,8 @@ https://colab.research.google.com/drive/1FyZtWM74aIfLvI0V6SZrLpyi2m08Wf8r#scroll
 #### 4) 최종발표
 
 https://colab.research.google.com/drive/1LaHurz6fOYHfIPHjSBWbIpzyVfa5rTdl?usp=sharing
+
+- 심층 신경망 모델, 생성적 적대 신경망(GAN) 모델 개발
 
 #### 5) 팀원
 김민지, 박혜진, 조문선, 조예진, 최지원
