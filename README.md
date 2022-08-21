@@ -6,27 +6,21 @@
 
 비식별화된 신용카드 거래 데이터로부터 사기 거래를 탐지하는 AI 솔루션 개발
 
-#### 2) EDA 및 전처리
-
-https://colab.research.google.com/drive/1c62a-kTqowd1wE4FaSLMIaV1Xxy69rCH?usp=sharing
+#### 2) [EDA 및 전처리](https://colab.research.google.com/drive/1c62a-kTqowd1wE4FaSLMIaV1Xxy69rCH?usp=sharing)
 
 - MinMax 스케일링
 - SMOTE 오버 샘플링
 - Outlier 제거
 
-#### 3) 모델링
-
-https://colab.research.google.com/drive/1FyZtWM74aIfLvI0V6SZrLpyi2m08Wf8r?usp=sharing
+#### 3) [모델링](https://colab.research.google.com/drive/1FyZtWM74aIfLvI0V6SZrLpyi2m08Wf8r?usp=sharing)
 
 - 피어슨 상관계수, Point biserial correlation
 - 정규화 데이터로 3-layer Neural Network, AutoEncoder 딥러닝 모델 적용
 - IsolationForest, EllipticEnvelope 이상치 탐지 모델 적용
 
-#### 4) 최종발표
+#### 4) [최종발표](https://colab.research.google.com/drive/1LaHurz6fOYHfIPHjSBWbIpzyVfa5rTdl?usp=sharing)
 
-https://colab.research.google.com/drive/1LaHurz6fOYHfIPHjSBWbIpzyVfa5rTdl?usp=sharing
-
-- 심층 신경망 모델, 생성적 적대 신경망(GAN) 모델 개발 및 적용
+심층 신경망 모델, 생성적 적대 신경망(GAN) 모델 개발 및 적용
 
 #### 5) 팀원
 김민지, 박혜진, 조문선, 조예진, 최지원
