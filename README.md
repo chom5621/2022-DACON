@@ -24,3 +24,5 @@
 
 #### 5) 팀원
 김민지, 박혜진, 조문선, 조예진, 최지원
+
+#### 6) [발표자료](https://chom5621.github.io/project/esaa/(2022-DACON)-%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C-%EC%82%AC%EA%B8%B0-%EA%B1%B0%EB%9E%98-%ED%83%90%EC%A7%80/)
